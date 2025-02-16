@@ -204,7 +204,7 @@ msgid ""
 "other applications may become less responsive.\n"
 "Do you want to stop the script?"
 msgstr ""
-"Un script d'esta pàgina està fent que es bloquege el KHTML. Si continua "
+"Un script d'esta pàgina està fent que es bloquege KHTML. Si continua "
 "executant-se, pot empitjorar la resposta d'altres aplicacions.\n"
 "Voleu parar l'script?"
 
