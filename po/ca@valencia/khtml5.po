@@ -1300,7 +1300,7 @@ msgid ""
 "or to open the popup."
 msgstr ""
 "Esta pàgina ha provat d'obrir una finestra emergent, però ha sigut blocada.\n"
-"Podeu clicar en esta icona en la barra d'estat per a controlar este "
+"Podeu clicar damunt d'esta icona en la barra d'estat per a controlar este "
 "comportament\n"
 "o per a obrir l'emergent."
 
