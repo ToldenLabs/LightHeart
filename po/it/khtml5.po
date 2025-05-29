@@ -1,4 +1,5 @@
 # translation of kdelibs4.po to Italian
+# SPDX-FileCopyrightText: 2025 Paolo Zamponi <feus73@gmail.com>
 # Andrea Rizzi <rizzi@kde.org>, 2003, 2004, 2005.
 # Federico Cozzi <federicocozzi@federicocozzi.it>, 2004.
 # Federico Zenith <federico.zenith@member.fsf.org>, 2004, 2008, 2009, 2010, 2011.
@@ -16,15 +17,15 @@ msgstr ""
 "Project-Id-Version: khtml5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:25+0000\n"
-"PO-Revision-Date: 2019-01-10 19:35+0100\n"
-"Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
+"PO-Revision-Date: 2025-05-24 16:18+0200\n"
+"Last-Translator: Paolo Zamponi <feus73@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 18.12.0\n"
+"X-Generator: Lokalize 25.04.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -1468,8 +1469,8 @@ msgid ""
 "in Konqueror, please file a bug report at https://bugs.kde.org/.  A test "
 "case which illustrates the problem will be appreciated."
 msgstr ""
-"Questa finestra fornisce informazioni e dettagli sugli errori di script che "
-"si verificano nelle pagine web. In molti casi, tali errori sono dovuti a un "
+"Questa finestra fornisce notifiche e dettagli sugli errori di script che si "
+"verificano nelle pagine web. In molti casi, tali errori sono dovuti a un "
 "errore dell'autore del sito web. In altri casi, si tratta invece di un "
 "errore di programmazione di Konqueror. Se sospetti che si tratti del primo "
 "caso, dovresti contattare il gestore del sito web in questione. Viceversa, "
