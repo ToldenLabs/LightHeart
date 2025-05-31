@@ -11,7 +11,7 @@
 # Joonas Niilola <juippis@roskakori.org>, 2006.
 # Mikko Piippo <piippo@cc.helsinki.fi>, 2007.
 # Teemu Rytilahti <tpr@d5k.net>, 2008.
-# Tommi Nieminen <translator@legisign.org>, 2009, 2010, 2011, 2019.
+# SPDX-FileCopyrightText: 2009, 2010, 2011, 2019, 2025 Tommi Nieminen <translator@legisign.org>
 # Jorma Karvonen <karvonen.jorma@gmail.com>, 2010.
 # Lasse Liehu <lasse.liehu@gmail.com>, 2006, 2010, 2011, 2012, 2013, 2014, 2015, 2016.
 #
@@ -26,7 +26,7 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:25+0000\n"
-"PO-Revision-Date: 2019-01-23 12:38+0200\n"
+"PO-Revision-Date: 2025-05-29 15:13+0300\n"
 "Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
 "Language: fi\n"
@@ -34,6 +34,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.08.5\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -741,7 +742,7 @@ msgstr "Tallenna kuva nimellä"
 #: khtml_ext.cpp:726 khtml_ext.cpp:738
 #, kde-format
 msgid "Add URL to Filter"
-msgstr "Lisää URL-suodatin"
+msgstr "Lisää suodatettava verkko-osoite"
 
 #: khtml_ext.cpp:727 khtml_ext.cpp:739
 #, kde-format
@@ -1006,7 +1007,7 @@ msgstr "Pyynnön yksityiskohdat:"
 #: khtml_part.cpp:1931
 #, kde-format
 msgid "URL: %1"
-msgstr "URL: %1"
+msgstr "Verkko-osoite: %1"
 
 #: khtml_part.cpp:1934
 #, kde-format
@@ -1356,10 +1357,10 @@ msgid ""
 "printed page and the page number.</p><p>If this checkbox is disabled, the "
 "printout of the HTML document will not contain such a header line.</p> </qt>"
 msgstr ""
-"<qt><p><strong>”Tulosta ylätunniste”</strong></p><p>Jos tämä on valittuna, "
-"päivämäärän, osoitteen ja sivunumeron sisältävä ylätunniste tulostetaan "
-"jokaisen sivun ylälaitaan.</p><p>Jos tätä ei ole valittu, sivuille ei "
-"tulosteta ylätunnistetta.</p></qt>"
+"<qt><p><strong>”Tulosta ylätunniste”</strong></p><p>Jos tämä on valittu, "
+"kunkin sivun ylälaitaan tulostetaan päiväyksen, osoitteen ja sivunumeron "
+"sisältävä ylätunniste.</p><p>Ellei tätä ole valittu, sivuille ei tulosteta "
+"ylätunnistetta.</p></qt>"
 
 #: khtml_printsettings.cpp:55
 #, kde-format
