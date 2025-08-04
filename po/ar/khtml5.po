@@ -12,7 +12,7 @@
 # Mohamed SAAD <metehyi@free.fr>, 2006.
 # Khaled Hosny <khaledhosny@eglug.org>, 2007.
 # Youssef Chahibi <chahibi@gmail.com>, 2007.
-# SPDX-FileCopyrightText: 2008, 2009, 2024 zayed <zayed.alsaidi@gmail.com>
+# SPDX-FileCopyrightText: 2008, 2009, 2024, 2025 zayed <zayed.alsaidi@gmail.com>
 # Zayed Al-Saidi <zayed.alsaidi@gmail.com>, 2009, 2022.
 # hanny <hannysabbagh@hotmail.com>, 2012.
 # Abderrahim Kitouni <a.kitouni@gmail.com>, 2012.
@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:25+0000\n"
-"PO-Revision-Date: 2024-11-28 13:47+0400\n"
+"PO-Revision-Date: 2025-08-03 15:29+0400\n"
 "Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
 "Language-Team: ar\n"
 "Language: ar\n"
@@ -431,7 +431,7 @@ msgid ""
 "very secure password as this will be used to encrypt your private key."
 msgstr ""
 "يجب عليك الآن تقديم كلمة سر لطلب الشهادة. الرجاء اختيار كلمة سر آمنة للغاية "
-"حيث ستستخدم لتشفير مفتاحك الخاص."
+"حيث ستستخدم لتعمية مفتاحك الخاص."
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel6)
 #: html/keygenwizard2.ui:48
@@ -832,7 +832,7 @@ msgstr "اوقف الصور المتحركة"
 #: khtml_part.cpp:330
 #, kde-format
 msgid "Set &Encoding"
-msgstr "عيّن ال&تشفير"
+msgstr "عيّن ال&الترميز"
 
 #: khtml_part.cpp:376
 #, kde-format
@@ -1183,7 +1183,7 @@ msgid ""
 "A third party may be able to intercept and view this information.\n"
 "Are you sure you wish to continue?"
 msgstr ""
-"تحذير: هذا نموذج آمن لكنه يريد إرسال بياناتك بدون تشفير\n"
+"تحذير: هذا نموذج آمن لكنه يريد إرسال بياناتك بلا تعمية\n"
 "من الممكن أن يقوم طرف ثالث باعتراض الإرسال، و رؤية هذه المعلومات.\n"
 "هل أنت متأكد أنك تريد المتابعة؟"
 
@@ -1195,7 +1195,7 @@ msgstr "نقل عبر الشبكة"
 #: khtml_part.cpp:4904 khtml_part.cpp:4915
 #, kde-format
 msgid "&Send Unencrypted"
-msgstr "ا&رسل غير مشفّرة"
+msgstr "ا&رسل غير معمى"
 
 #: khtml_part.cpp:4912
 #, kde-format
@@ -1204,7 +1204,7 @@ msgid ""
 "unencrypted.\n"
 "Are you sure you wish to continue?"
 msgstr ""
-"تحذير: سيتم إرسال بياناتك عبر الشبكة بدون تشفير.\n"
+"تحذير: سيتم إرسال بياناتك عبر الشبكة بلا تعمية.\n"
 "هل أنت متأكد أنك تريد المتابعة؟"
 
 #: khtml_part.cpp:4937
@@ -1615,7 +1615,7 @@ msgstr "ا&ختصارات URI:"
 #: rendering/render_form.cpp:1054
 #, kde-format
 msgid "Clear &History"
-msgstr "امح التا&ريخ"
+msgstr "امحُ التا&ريخ"
 
 #: rendering/render_form.cpp:1069
 #, kde-format
