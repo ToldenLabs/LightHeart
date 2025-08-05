@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:25+0000\n"
-"PO-Revision-Date: 2025-08-03 15:29+0400\n"
+"PO-Revision-Date: 2025-08-04 18:45+0400\n"
 "Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
 "Language-Team: ar\n"
 "Language: ar\n"
@@ -376,7 +376,7 @@ msgstr "سلّم"
 #: html/html_formimpl.cpp:1900 khtmlview.cpp:2863 khtmlview.cpp:2898
 #, kde-format
 msgid "Reset"
-msgstr "استرجع"
+msgstr "صفّر"
 
 #: html/html_formimpl.cpp:2824
 #, kde-format
@@ -772,7 +772,7 @@ msgstr ""
 #: khtml_ext.cpp:1007
 #, no-c-format, kde-format
 msgid "Default Font Size (100%)"
-msgstr "حجم الخط الافتراضي (100%)"
+msgstr "حجم الخط المبدئي (100%)"
 
 #: khtml_ext.cpp:1021
 #, no-c-format, kde-format
@@ -1044,7 +1044,7 @@ msgstr[5] "حمّلت %1 صورة من %2."
 #: khtml_part.cpp:2582
 #, kde-format
 msgid "Automatic Detection"
-msgstr "اكتشاف آلي"
+msgstr "اكتشاف آليّ"
 
 #: khtml_part.cpp:3712 khtml_part.cpp:3776 khtml_part.cpp:3786
 #, kde-format
@@ -1319,7 +1319,7 @@ msgstr[5] "أ&ظهر النوافذ المنبثقة الممنوعة ال‍ %1
 #: khtml_part.cpp:7654
 #, kde-format
 msgid "Show Blocked Window Passive Popup &Notification"
-msgstr "أظهر ت&نبيه للنوافذ المنبثقة السلبية الممنوعة"
+msgstr "أظهر إ&شعار للنوافذ المنبثقة السلبية الممنوعة"
 
 #: khtml_part.cpp:7656
 #, kde-format
@@ -1442,7 +1442,7 @@ msgstr "فعّلت أزرار النفاذ"
 #: kjserrordlg.cpp:9
 #, kde-format
 msgid "C&lear"
-msgstr "ا&مسح"
+msgstr "ام&حُ"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, KJSErrorDlgBase)
 #: kjserrordlgbase.ui:15
