@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:25+0000\n"
-"PO-Revision-Date: 2025-08-05 12:49+0400\n"
+"PO-Revision-Date: 2025-08-06 12:46+0400\n"
 "Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
 "Language-Team: ar\n"
 "Language: ar\n"
@@ -47,7 +47,7 @@ msgstr ""
 #: ecma/debugger/callstackdock.cpp:35
 #, kde-format
 msgid "Call Stack"
-msgstr "نادِ الرّصة"
+msgstr "نادِ المكدس"
 
 #: ecma/debugger/callstackdock.cpp:39
 #, kde-format
@@ -126,7 +126,7 @@ msgstr "أعد إزاحة المصادر"
 #: ecma/debugger/debugwindow.cpp:209
 #, kde-format
 msgid "Report Exceptions"
-msgstr "أبلغ عن الإستثناءات"
+msgstr "أبلغ عن الاستثناءات"
 
 #: ecma/debugger/debugwindow.cpp:217
 #, kde-format
@@ -389,7 +389,7 @@ msgid ""
 "No plugin found for '%1'.\n"
 "Do you want to download one from %2?"
 msgstr ""
-"لم يتم إيجاد ملحق ل %1.\n"
+"لم يعثر على ملحق ل %1.\n"
 "هل تريد تنزيل واحِد من %2 ؟"
 
 #: html/html_objectimpl.cpp:633
@@ -708,7 +708,7 @@ msgstr "امنع الصور الآتية من %1"
 #: khtml_ext.cpp:596
 #, kde-format
 msgid "Stop Animations"
-msgstr "اوقف الصور المتحركة"
+msgstr "أوقف الصور المتحركة"
 
 #: khtml_ext.cpp:637
 #, kde-format
@@ -827,12 +827,12 @@ msgstr "طباعة شجرة الإطار لـ STDOUT"
 #: khtml_part.cpp:326
 #, kde-format
 msgid "Stop Animated Images"
-msgstr "اوقف الصور المتحركة"
+msgstr "أوقف الصور المتحركة"
 
 #: khtml_part.cpp:330
 #, kde-format
 msgid "Set &Encoding"
-msgstr "عيّن ال&الترميز"
+msgstr "عيّن ال&ترميز"
 
 #: khtml_part.cpp:376
 #, kde-format
@@ -998,7 +998,7 @@ msgstr "المسار: %1"
 #: khtml_part.cpp:1934
 #, kde-format
 msgid "Protocol: %1"
-msgstr "البرتوكول: %1"
+msgstr "الميفاق: %1"
 
 #: khtml_part.cpp:1937
 #, kde-format
@@ -1204,7 +1204,7 @@ msgid ""
 "unencrypted.\n"
 "Are you sure you wish to continue?"
 msgstr ""
-"تحذير: سيتم إرسال بياناتك عبر الشبكة بلا تعمية.\n"
+"تحذير: سترسل بياناتك عبر الشبكة بلا تعمية.\n"
 "هل أنت متأكد أنك تريد المتابعة؟"
 
 #: khtml_part.cpp:4937
@@ -1227,8 +1227,8 @@ msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
-"<qt>سيتم تسليم النموذج إلى <br /><b>%1</b><br />في نظام ملفات المحلي.<br /"
-">هل ترغب في تسليم النموذج؟</qt>"
+"<qt>سيسلم النموذج إلى <br /><b>%1</b><br />في نظام ملفات المحلي.<br />هل "
+"ترغب في تسليم النموذج؟</qt>"
 
 #: khtml_part.cpp:5017
 #, kde-format
@@ -1236,7 +1236,7 @@ msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
-"هذا الموقع يريد ارفاق ملف من جهازك في النموذج المرسل. تم إزالة الملف المرفق "
+"هذا الموقع يريد إرفاق ملف من جهازك في النموذج المرسل. أُزيل الملف المرفق "
 "لحمايتك."
 
 #: khtml_part.cpp:6111
@@ -1660,7 +1660,7 @@ msgstr "غير موجود"
 #: ui/findbar/khtmlfindbar.cpp:239
 #, kde-format
 msgid "No more matches for this search direction."
-msgstr "لا يوجد متطابقات أكثر للبحث في هذا الإتجاه."
+msgstr "لا يوجد متطابقات أكثر للبحث في هذا الاتجاه."
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/findbar/khtmlfindbar_base.ui:43
@@ -1733,7 +1733,7 @@ msgstr "خطأ كبير في إعراب : %1 في السطر %2، العمود %
 #: xml/xml_tokenizer.cpp:567
 #, kde-format
 msgid "XML parsing error"
-msgstr "خطأ في اعراب ال XML"
+msgstr "خطأ في إعراب ال XML"
 
 #~ msgid "Error"
 #~ msgstr "خطأ"
