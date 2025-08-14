@@ -928,7 +928,7 @@ msgid ""
 "single frame, click on it and then use this function.</qt>"
 msgstr ""
 "<qt>اطبع الإطار<br /><br /> بعض الصفحات تحوي العديد من الإطارات. لطباعة إطار "
-"واحد فقط ، انقر عليه ثم استخدم هذه الدالة.</qt>"
+"واحد فقط، انقر عليه ثم استخدم هذه الدالة.</qt>"
 
 #: khtml_part.cpp:465
 #, kde-format
@@ -1350,9 +1350,9 @@ msgid ""
 "printed page and the page number.</p><p>If this checkbox is disabled, the "
 "printout of the HTML document will not contain such a header line.</p> </qt>"
 msgstr ""
-"<qt><p><strong>'اطبع الترويسة'</strong></p><p>إذا مكن هذا الخيار ، ستحتوي "
+"<qt><p><strong>'اطبع الترويسة'</strong></p><p>إذا مكن هذا الخيار، ستحتوي "
 "الصفحة المطبوعة على سطر علوي في كل صفحة. يضم هذا السطر العلوي (الترويسة)على "
-"التاريخ ومصدر الصفحة ورقمها.</p><p>إذا لم يمكّن هذا الخيار ، لن تحتوي الصفحة "
+"التاريخ ومصدر الصفحة ورقمها.</p><p>إذا لم يمكّن هذا الخيار، لن تحتوي الصفحة "
 "المطبوعة على هذه الترويسة</p></qt>"
 
 #: khtml_printsettings.cpp:55
@@ -1382,7 +1382,7 @@ msgstr "إعدادات HTML"
 #: khtml_printsettings.cpp:72
 #, kde-format
 msgid "Printer friendly mode (black text, no background)"
-msgstr "نمط الاقتصادي (كتابة بالأسود ، لا خلفية )"
+msgstr "نمط الاقتصادي (كتابة بالأسود، لا خلفية )"
 
 #: khtml_printsettings.cpp:75
 #, kde-format
