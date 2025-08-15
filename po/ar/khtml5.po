@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:25+0000\n"
-"PO-Revision-Date: 2025-08-06 12:46+0400\n"
+"PO-Revision-Date: 2025-08-14 09:35+0400\n"
 "Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
 "Language-Team: ar\n"
 "Language: ar\n"
@@ -1184,7 +1184,7 @@ msgid ""
 "Are you sure you wish to continue?"
 msgstr ""
 "تحذير: هذا نموذج آمن لكنه يريد إرسال بياناتك بلا تعمية\n"
-"من الممكن أن يقوم طرف ثالث باعتراض الإرسال، و رؤية هذه المعلومات.\n"
+"من الممكن أن يعترض طرف ثالث الإرسال، و رؤية هذه المعلومات.\n"
 "هل أنت متأكد أنك تريد المتابعة؟"
 
 #: khtml_part.cpp:4904 khtml_part.cpp:4914 khtml_part.cpp:4939
@@ -1595,7 +1595,7 @@ msgstr "اختصار ويب جديد"
 #: rendering/render_form.cpp:922
 #, kde-format
 msgid "%1 is already assigned to %2"
-msgstr "%1 مسنود بالفعل إلى %2"
+msgstr "%1 مسنود فعلًا إلى %2"
 
 #: rendering/render_form.cpp:968
 #, kde-format
