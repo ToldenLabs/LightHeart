@@ -429,8 +429,8 @@ msgid ""
 "very secure password as this will be used to encrypt your private key."
 msgstr ""
 "Ara heu de proporcionar una contrasenya per a la petició de certificat. "
-"Seleccioneu una contrasenya molt segura, ja que s'utilitzarà per a encriptar "
-"la vostra clau privada."
+"Trieu una contrasenya molt segura, ja que s'utilitzarà per a encriptar la "
+"vostra clau privada."
 
 #. i18n: ectx: property (text), widget (QLabel, TextLabel6)
 #: html/keygenwizard2.ui:48
@@ -442,7 +442,7 @@ msgstr "Repetiu la co&ntrasenya:"
 #: html/keygenwizard2.ui:58
 #, kde-format
 msgid "&Choose password:"
-msgstr "Seleccioneu una &contrasenya:"
+msgstr "Trieu una &contrasenya:"
 
 #: html/ksslkeygen.cpp:82
 #, kde-format
@@ -652,7 +652,7 @@ msgstr "Imprimix el marc…"
 #: khtml_ext.cpp:499 khtml_part.cpp:298
 #, kde-format
 msgid "Save &Frame As..."
-msgstr "Guarda el &marc com a…"
+msgstr "Anomena i guarda el &marc…"
 
 #: khtml_ext.cpp:504 khtml_part.cpp:274
 #, kde-format
@@ -799,7 +799,7 @@ msgstr "Visualitza la informació del document"
 #: khtml_part.cpp:288
 #, kde-format
 msgid "Save &Background Image As..."
-msgstr "Guarda la imatge de &fons com a…"
+msgstr "Anomena i guarda la imatge de &fons…"
 
 #: khtml_part.cpp:310 khtml_part.cpp:4189
 #, kde-format
@@ -1156,7 +1156,7 @@ msgstr "La cadena de certificats SSL del parell pareix estar malmesa."
 #: khtml_part.cpp:4208
 #, kde-format
 msgid "Save Frame As"
-msgstr "Guarda el marc com a"
+msgstr "Anomeneu i guardeu el marc"
 
 #: khtml_part.cpp:4252
 #, kde-format
