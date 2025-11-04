@@ -26,7 +26,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:25+0000\n"
 "PO-Revision-Date: 2023-10-13 16:03+0200\n"
-"Last-Translator: Xavier BESNARD <xavier.besnard@neuf.fr>\n"
+"Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -872,7 +872,7 @@ msgid ""
 msgstr ""
 "<qt>Augmenter la taille des polices<br /><br />Augmente la taille des "
 "polices dans cette fenêtre. Cliquez et maintenez enfoncé le bouton de la "
-"souris pour faire apparaître un menu présentant toutes les tailles de "
+"souris pour faire apparaitre un menu présentant toutes les tailles de "
 "polices disponibles.</qt>"
 
 #: khtml_part.cpp:388
@@ -888,7 +888,7 @@ msgid ""
 msgstr ""
 "<qt>Diminuer la taille des polices<br /><br />Diminue la taille des polices "
 "dans cette fenêtre. Cliquez et maintenez enfoncé le bouton de la souris pour "
-"faire apparaître un menu présentant toutes les tailles de polices "
+"faire apparaitre un menu présentant toutes les tailles de polices "
 "disponibles.</qt>"
 
 #: khtml_part.cpp:406
@@ -897,7 +897,7 @@ msgid ""
 "<qt>Find text<br /><br />Shows a dialog that allows you to find text on the "
 "displayed page.</qt>"
 msgstr ""
-"<qt>Chercher du texte<br /><br />Affiche une boîte de dialogue permettant de "
+"<qt>Chercher du texte<br /><br />Affiche une boite de dialogue permettant de "
 "chercher du texte sur la page affichée.</qt>"
 
 #: khtml_part.cpp:410
@@ -1179,7 +1179,7 @@ msgstr "Enregistrer l'image de fond sous"
 #, kde-format
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
-"Il semble que la chaîne de certificat SSL de l'homologue est corrompue."
+"Il semble que la chaine de certificat SSL de l'homologue est corrompue."
 
 #: khtml_part.cpp:4208
 #, kde-format
@@ -1331,7 +1331,7 @@ msgid ""
 msgstr ""
 "Cette page a tenté d'ouvrir une fenêtre intempestive mais a été bloquée.\n"
 "Vous pouvez cliquer sur cette icône dans la barre d'état pour modifier\n"
-"ce comportement ou pour ouvrir la fenêtre qui apparaît."
+"ce comportement ou pour ouvrir la fenêtre qui apparait."
 
 #: khtml_part.cpp:7652
 #, kde-format
@@ -1495,7 +1495,7 @@ msgid ""
 "in Konqueror, please file a bug report at https://bugs.kde.org/.  A test "
 "case which illustrates the problem will be appreciated."
 msgstr ""
-"Cette boîte de dialogue met à votre disposition les notifications et les "
+"Cette boite de dialogue met à votre disposition les notifications et les "
 "détails des erreurs de scripts survenant sur les pages Internet. Dans de "
 "nombreux cas, elles sont dues à une erreur dans le site Internet lorsqu'il a "
 "été conçu par son auteur. Dans d'autres cas, ce problème résulte d'une "
