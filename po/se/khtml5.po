@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:25+0000\n"
+"POT-Creation-Date: 2025-11-17 09:00+0000\n"
 "PO-Revision-Date: 2012-05-30 23:19+0200\n"
 "Last-Translator: Børre Gaup <boerre@skolelinux.no>\n"
 "Language-Team: Northern Sami <l10n-no@lister.huftis.org>\n"
@@ -239,8 +239,8 @@ msgid ""
 "browser window via JavaScript.<br />Do you want to allow the form to be "
 "submitted?</qt>"
 msgstr ""
-"<qt>Dát báiki sádde skovi mii viggá rahpat <p>%1</p>ođđa láses Javascript:"
-"ain.<br />Háliidatgo sáddet skovi?</qt>"
+"<qt>Dát báiki sádde skovi mii viggá rahpat <p>%1</p>ođđa láses "
+"Javascript:ain.<br />Háliidatgo sáddet skovi?</qt>"
 
 #: ecma/kjs_html.cpp:2240 ecma/kjs_window.cpp:1952
 #, kde-format
@@ -267,8 +267,8 @@ msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
 "JavaScript.<br />Do you want to allow this?</qt>"
 msgstr ""
-"<qt>Dát báiki viggá rahpat <p>%1</p> ođđa ođđa fierpmádatlogana Javascript:"
-"ain.D<br />ivttát go dan dáhpáhuvvat?</qt>"
+"<qt>Dát báiki viggá rahpat <p>%1</p> ođđa ođđa fierpmádatlogana "
+"Javascript:ain.D<br />ivttát go dan dáhpáhuvvat?</qt>"
 
 #: ecma/kjs_window.cpp:2283
 #, kde-format
