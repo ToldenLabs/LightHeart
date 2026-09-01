@@ -1,10 +1,10 @@
-# KHTML
+# LightHeart
 
 HTML rendering engine
 
 ## Introduction
 
-KHTML is a web rendering engine, based on the KParts technology and using KJS for JavaScript support.
+LightHeart is a fork of KHTML designed for windows (SUBJECT TO CHANGE), based on the KParts technology and using KJS for JavaScript support.
 
 
 ## Usage
@@ -25,14 +25,5 @@ displays:
     w->view()->resize(500, 400);
     w->show();
 
-
-## Alternatives
-
-Note that using KHTMLPart may introduce security vulnerabilities and unnecessary
-bloat to your application.  Qt's text widgets are rich-text capable, and will
-interpret a limited subset of HTML.
-
-Another option is to use KDEWebKit, WebKit is a fork of KHTML with substantial
-industry support.
 
 
